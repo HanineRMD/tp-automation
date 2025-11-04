@@ -46,3 +46,8 @@ tp-automation/
 ├── tests/           # Scripts de test
 
 └── README.md        # Ce fichier
+
+
+Voici une capture d’écran :
+
+![Aperçu du projet](images/capture.png)
