@@ -34,10 +34,15 @@ cd go
 
 go run ex1_clean_logs.go
 
-📁 Structure
+### 📁 Structure
 tp-automation/
+
 ├── python/          # Scripts Python
+
 ├── shell/           # Scripts Bash  
+
 ├── go/              # Programmes Go
+
 ├── tests/           # Scripts de test
+
 └── README.md        # Ce fichier
