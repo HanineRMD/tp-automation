@@ -18,7 +18,7 @@ Ce projet contient 10 exercices d'automatisation système implémentés en 3 lan
 ## 🚀 Utilisation
 
 ### Python
-```bash
+
 cd python
 python3 ex1_clean_logs.py
 
