@@ -1,0 +1,6 @@
+# Dans tp-automation/.gitignore
+*.log
+backup.zip
+tmp/
+__pycache__/
+*.exe
