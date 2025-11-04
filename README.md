@@ -20,15 +20,18 @@ Ce projet contient 10 exercices d'automatisation système implémentés en 3 lan
 ### Python
 
 cd python
+
 python3 ex1_clean_logs.py
 
-Shell
+### Shell
 cd shell  
+
 ./ex1_clean_logs.sh
 
 
-Go
+### Go
 cd go
+
 go run ex1_clean_logs.go
 
 📁 Structure
