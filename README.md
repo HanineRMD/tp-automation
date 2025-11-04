@@ -1,4 +1,4 @@
-# TP Automatisation - Python, Shell, Go
+# TP Automatisation - Python, Shell, Go avec tutorial de Go testé
 
 ## 📋 Description
 Ce projet contient 10 exercices d'automatisation système implémentés en 3 langages différents.
