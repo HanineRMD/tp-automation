@@ -50,4 +50,4 @@ tp-automation/
 
 Voici une capture d’écran :
 
-![Aperçu du projet](images/capture.png)
+![Aperçu du projet](tutoGo/images/capture.png)
