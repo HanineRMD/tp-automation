@@ -21,3 +21,20 @@ Ce projet contient 10 exercices d'automatisation système implémentés en 3 lan
 ```bash
 cd python
 python3 ex1_clean_logs.py
+
+Shell
+cd shell  
+./ex1_clean_logs.sh
+
+
+Go
+cd go
+go run ex1_clean_logs.go
+
+📁 Structure
+tp-automation/
+├── python/          # Scripts Python
+├── shell/           # Scripts Bash  
+├── go/              # Programmes Go
+├── tests/           # Scripts de test
+└── README.md        # Ce fichier
